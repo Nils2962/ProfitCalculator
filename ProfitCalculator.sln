@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfitCalculator", "ProfitCalculator\ProfitCalculator.csproj", "{174F70B6-1760-4353-803E-2BC00BDE6CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{174F70B6-1760-4353-803E-2BC00BDE6CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174F70B6-1760-4353-803E-2BC00BDE6CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174F70B6-1760-4353-803E-2BC00BDE6CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174F70B6-1760-4353-803E-2BC00BDE6CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FF09F5-FB48-4220-82CC-995E8E56A736}
+	EndGlobalSection
+EndGlobal

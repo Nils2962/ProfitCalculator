@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProfitCalculator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppDateFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ProfitCalculator</Value>
+    </Setting>
+    <Setting Name="AppDataFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">account.pcf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
